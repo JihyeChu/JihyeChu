@@ -23,7 +23,7 @@ I'm trying to be a backend developer who enjoys growing up.<br/>
     <a href="https://dahlia15.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://leaf-twig-b9d.notion.site/TIL-7f3f068344d64794a7693d6b3a075f05">
+    <a href="https://leaf-twig-b9d.notion.site/c6f5eb4ed581487399ba4d6eca6cd792?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>

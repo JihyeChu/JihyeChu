@@ -1,7 +1,22 @@
-### Hi there 👋
-Welcome to my github!<br/>
-I'm trying to be a backend developer who enjoys growing up.<br/>
+### Hi there! 👋  
+I’m exploring my own development philosophy along the way, embracing challenges and new experiences.
 
+## 🛠 Tech Stack
+
+```Languages``` : Java
+
+```Frameworks``` : Spring Boot
+
+```Databases``` : MySQL, PostgreSQL, Redis
+
+```Tools & DevOps``` : Git, Docker, Postman, Slack, Notion
+
+## 📫 Contact
+
+- Email: chewjye647@gmail.com  
+- Dev Journal: [Notion](https://leaf-twig-b9d.notion.site/c6f5eb4ed581487399ba4d6eca6cd792?pvs=4)
+
+<!--
 ### Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:chewjye647@gmail.com">
@@ -28,8 +43,6 @@ I'm trying to be a backend developer who enjoys growing up.<br/>
     </a>
 </div><br>
 
-
-<!--
 **JihyeChu/JihyeChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

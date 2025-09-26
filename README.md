@@ -5,11 +5,13 @@ I’m exploring my own development philosophy along the way, embracing challenge
 
 ```Languages``` : Java
 
-```Frameworks``` : Spring Boot
+```Frameworks``` : SpringBoot
 
 ```Databases``` : MySQL, PostgreSQL, Redis
 
-```Tools & DevOps``` : Git, Docker, Postman, Slack, Notion
+```DevOps/Test``` : Docker, Github Actions, Postman
+
+```ETC``` : Github, Jira
 
 ## 📫 Contact
 

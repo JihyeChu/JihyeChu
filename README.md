@@ -16,7 +16,6 @@ I’m exploring my own development philosophy along the way, embracing challenge
 ## 📫 Contact
 
 - Email: chewjye647@gmail.com  
-- Dev Journal: [지혜의 공부기록](https://www.notion.so/c6f5eb4ed581487399ba4d6eca6cd792?source=copy_link)
 
 <!--
 ### Contact 📞

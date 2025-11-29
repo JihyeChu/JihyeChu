@@ -3,9 +3,9 @@ I’m exploring my own development philosophy along the way, embracing challenge
 
 ## 🛠 Tech Stack
 
-```Languages``` : Java
+```Languages``` : Java, JavaScript
 
-```Frameworks``` : SpringBoot
+```Frameworks``` : SpringBoot, Spring
 
 ```Databases``` : MySQL, PostgreSQL, Redis
 
